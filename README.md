@@ -4,7 +4,7 @@
 ![Days](https://img.shields.io/badge/Days-100-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-KodeKloud-purple?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-28%2F100-yellow?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-29%2F100-yellow?style=for-the-badge)
 
 > A hands-on 100-day journey to master MLOps — from Python environments and model training to CI/CD pipelines, containerization, model serving, and production monitoring.
 
@@ -76,7 +76,7 @@ The 100 days are organized into 9 progressive phases:
 | 26 | Compare Model Runs and Select the Best | ✅ Done |
 | 27 | Load Model from Registry with Custom Preprocessing | ✅ Done |
 | 28 | Fix a Broken MLflow Project and Re-Run It | ✅ Done |
-| 29 | Configure MLflow with Remote Tracking Server and Artifact Store | 🔒 Locked |
+| 29 | Configure MLflow with Remote Tracking Server and Artifact Store | ✅ Done |
 | 30 | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor | 🔒 Locked |
 
 ### 🏋️ Phase 4 — Model Training & Tuning (Days 31–40)
