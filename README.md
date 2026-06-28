@@ -4,7 +4,7 @@
 ![Days](https://img.shields.io/badge/Days-100-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-KodeKloud-purple?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-33%2F100-yellow?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-34%2F100-yellow?style=for-the-badge)
 
 > A hands-on 100-day journey to master MLOps — from Python environments and model training to CI/CD pipelines, containerization, model serving, and production monitoring.
 
@@ -85,7 +85,7 @@ The 100 days are organized into 9 progressive phases:
 | 31 | Train a Scikit-Learn Model with Reproducible Script | ✅ Done |
 | 32 | Manage Training Configuration with YAML | ✅ Done |
 | 33 | Evaluate a Trained Model and Generate Classification Report | ✅ Done |
-| 34 | Implement Cross-Validation for Model Selection | 🔒 Locked |
+| 34 | Implement Cross-Validation for Model Selection | ✅ Done |
 | 35 | Hyperparameter Tuning with Optuna | 🔒 Locked |
 | 36 | Automated Model Selection with FLAML AutoML | 🔒 Locked |
 | 37 | Distributed Model Training with Joblib Parallelization | 🔒 Locked |
